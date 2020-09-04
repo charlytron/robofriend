@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../simplefolio"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../newreact"
+	}
+],
+  "settings": {}
+}
